@@ -1,5 +1,5 @@
 #rcyan {
-  width:80%;
+  width:100%;
   height: 35px;
   background: #00ff68 ;
 }
@@ -11,6 +11,11 @@
 #rbleuf {
   width:100%;
   height:100px;
- background:  #08005c ;
-
+  background:  #08005c ;
+}
+#rbleuc {
+  float: right;
+  width: 20% ;
+  height:35px ;
+  background: #0094d4 ;
 }
