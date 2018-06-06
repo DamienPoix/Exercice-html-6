@@ -4,8 +4,8 @@
   background: #00ff68 ;
 }
 #rrouge {
-  width:20%;
-  height:100px;
+  width:100%;
+  height:50px;
   background:   #ee2d2d ;
 }
 #rbleuf {
@@ -14,8 +14,29 @@
   background:  #08005c ;
 }
 #rbleuc {
-  float: right;
   width: 20% ;
   height:35px ;
   background: #0094d4 ;
+}
+ #rorangec{
+   float: right;
+   width: 40%;
+   height: 50px;
+   background:  #ff8f00 ;
+ }
+#rgris{
+  float: right;
+  width: 40%;
+  height: 50px;
+  background:  #959595 ;
+}
+#rrouge2 {
+  width:100%;
+  height:50px;
+  background:   #ee2d2d ;
+}
+#rjaune{
+  width: 26% ;
+  height: 50px;
+  background:  #ff9700 ;
 }
