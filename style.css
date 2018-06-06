@@ -1,19 +1,20 @@
 #rcyan {
   width:100%;
   height: 35px;
-  background: #00ff68 ;
+  background: #2ecc71 ;
 }
 #rrouge {
   width:100%;
   height:50px;
-  background:   #ee2d2d ;
+  background: #e74c3c ;
 }
 #rbleuf {
   width:100%;
   height:175px;
-  background:  #2c3e50 ;
+  background: #2c3e50 ;
 }
 #rbleuc {
+  float: right;
   width: 20% ;
   height:35px ;
   background: #2980b9 ;
@@ -22,7 +23,7 @@
    float: right;
    width: 40%;
    height: 50px;
-   background:  #e67e22 ;
+   background: #e67e22 ;
  }
 #rgris{
   float: right;
@@ -34,23 +35,23 @@
   float: left;
   width:100%;
   height:50px;
-  background:   #ee2d2d ;
+  background:#e74c3c ;
 }
 #rjaune{
   float: right;
   width: 26% ;
   height: 50px;
-  background: #f39c12 ;
+  background:#f39c12 ;
 }
 #rorange{
   float: right;
   width: 27% ;
   height: 50px ;
-  background:  #ff4d00 ;
+  background:#d35400 ;
 }
 #rturquoise{
   float: right;
   width: 27% ;
   height: 50px ;
-  background: #16a085
+  background:#16a085
 }
